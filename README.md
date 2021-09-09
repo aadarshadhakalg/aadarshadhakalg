@@ -7,7 +7,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadarshadhakalg&margin-w=15&no-frame=true&row=1" alt="aadarshadhakalg" /></a> </p>
 
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>  
+<h2 align="left">  Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h2>  
 
 - 🔭 I’m currently working on [dart server starter](https://github.com/aadarshadhakalg/dart-server-starter)
 - 🌱 I’m currently learning **Dart,Flutter,Shelf**
@@ -18,7 +18,8 @@
 
 
   <br/>
-### Blogs posts
+<h2 align="left"> Blog Posts</h2>
+ 
 <!-- BLOG-POST-LIST:START -->
 - [Writing Messenger Bot in Dart](https://aadarshadhakal.medium.com/writing-messenger-bot-in-dart-d49117ae69fb?source=rss-8c80835df6e2------2)
 <!-- BLOG-POST-LIST:END -->
@@ -142,6 +143,7 @@
     </td>
   </tr>
 </table>
+<br/>
 
 | Top Languages | My Stats | Streak Stats |
 |-|-|-|
