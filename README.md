@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aadarsha Dhakal</h1>
 <h3 align="center">A passionate flutter developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadarshadhakalg&label=Profile%20views&color=0e75b6&style=flat" alt="aadarshadhakalg" /> </p>
+<p align="center"> <img src="https://img.shields.io/twitter/follow/aadarshadhakalg?logo=twitter&style=for-the-badge" alt="aadarshadhakalg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadarshadhakalg" alt="aadarshadhakalg" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aadarshadhakalg" target="blank"><img src="https://img.shields.io/twitter/follow/aadarshadhakalg?logo=twitter&style=for-the-badge" alt="aadarshadhakalg" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadarshadhakalg&margin-w=15&no-frame=true&row=1" alt="aadarshadhakalg" /></a> </p>
+
+
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>  
 
 - 🔭 I’m currently working on [dart server starter](https://github.com/aadarshadhakalg/dart-server-starter)
 
