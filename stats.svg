@@ -1,0 +1,13 @@
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div style="display:flex;">
+<p style="flex:1; padding:10px;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadarshadhakalg&show_icons=true&locale=en&layout=compact" alt="aadarshadhakalg" /></p>
+
+<p style="flex:1; padding:10px;"><img  style="flex:1;" src="https://github-readme-stats.vercel.app/api?username=aadarshadhakalg&show_icons=true&locale=en" alt="aadarshadhakalg" /></p>
+
+<p style="flex:1; padding:10px;"><img style="flex:1;" src="https://github-readme-streak-stats.herokuapp.com/?user=aadarshadhakalg&" alt="aadarshadhakalg" /></p>
+ </div>
+        </div>
+    </foreignObject>
+</svg>
