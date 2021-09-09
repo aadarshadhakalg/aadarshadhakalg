@@ -31,23 +31,29 @@
 
 <table>
   <tr>
+  <td align="center" width="96">
+      <a href="#aadarshadhakal-tech" >
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="48" height="48" alt="Dart" />
+      </a>
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+      <a href="#aadarshadhakal-tech">
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="48" height="48" alt="Flutter" />
+      </a>
+      <br>Flutter
+    </td>
+    <td align="center" width="96"> 
+      <a href="#aadarshadhakal-tech" >
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
     <td align="center" width="96">
       <a href="#aadarshadhakal-tech">
         <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" width="48" height="48" alt="Appwrite" />
       </a>
       <br>Appwrite
-    </td>
-    <td align="center" width="96">
-      <a href="#aadarshadhakal-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="Mongo DB" />
-      </a>
-      <br>Mongo DB
-    </td>
-    <td align="center" width="96">
-      <a href="#aadarshadhakal-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a href="#aadarshadhakal-tech">
@@ -61,17 +67,11 @@
       </a>
       <br>C++
     </td>
-    <td align="center" width="96">
+    <td align="center"  width="96">
       <a href="#aadarshadhakal-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a href="#aadarshadhakal-tech" >
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="48" height="48" alt="Dart" />
-      </a>
-      <br>Dart
+      <br>Python
     </td>
     <td align="center" width="96">
       <a href="#aadarshadhakal-tech">
@@ -87,11 +87,11 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="96"> 
+    <td align="center" width="96">
       <a href="#aadarshadhakal-tech" >
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" />
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
       </a>
-      <br>Firebase
+      <br>Git
     </td>
     <td align="center" width="96">
       <a href="#aadarshadhakal-tech" >
@@ -99,23 +99,17 @@
       </a>
       <br>Linux
     </td>
-    <td align="center"  width="96">
+    <td align="center" width="96">
       <a href="#aadarshadhakal-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="48" height="48" alt="Redis" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS" />
       </a>
-      <br>Redis
-    </td>
-    <td align="center"  width="96">
-      <a href="#aadarshadhakal-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
+      <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#aadarshadhakal-tech">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="48" height="48" alt="Flutter" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" alt="Bootstrap" />
       </a>
-      <br>Flutter
+      <br>Bootstrap
     </td>
     <td align="center"  width="96">
       <a href="#aadarshadhakal-tech">
@@ -131,15 +125,21 @@
     </td>
     <td align="center" width="96">
       <a href="#aadarshadhakal-tech" >
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#aadarshadhakal-tech" >
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="Sqlite" />
       </a>
       <br>Sqlite
+    </td>
+    <td align="center" width="96">
+      <a href="#aadarshadhakal-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="Mongo DB" />
+      </a>
+      <br>Mongo DB
+    </td>
+    <td align="center"  width="96">
+      <a href="#aadarshadhakal-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="48" height="48" alt="Redis" />
+      </a>
+      <br>Redis
     </td>
   </tr>
 </table>
