@@ -25,6 +25,13 @@
 <!-- BLOG-POST-LIST:END -->
 </br>
 
+<h2 align="left"> Youtube Videos</h2>
+ 
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Get Started with Vim Text Editor](https://youtu.be/9e-R4zM3XhA)
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+</br>
+
 <h2 align="left"> Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
