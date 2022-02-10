@@ -29,6 +29,7 @@
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Get Started with Vim Text Editor](https://youtu.be/9e-R4zM3XhA)
+- [Demystifying Widget Rendering in Flutter](https://youtu.be/fx1BG-Mudko)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </br>
 
