@@ -23,6 +23,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Writing Messenger Bot in Dart](https://aadarshadhakal.medium.com/writing-messenger-bot-in-dart-d49117ae69fb?source=rss-8c80835df6e2------2)
 - [You Don't Want To Use RedHat As Your Daily Driver!!](https://blog.aadarshadhakal.com.np/you-dont-want-to-use-redhat-as-your-daily-driver)
+- [Interacting with System Services using DBus Dart](https://blog.aadarshadhakal.com.np/interacting-with-system-services-using-dbus-dart)
 <!-- BLOG-POST-LIST:END -->
 </br>
 
