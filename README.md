@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aadarsha Dhakal</h1>
-<h3 align="center">A passionate flutter developer from Nepal</h3>
 
 <p align="center"> <img src="https://img.shields.io/twitter/follow/aadarshadhakalg?logo=twitter&style=for-the-badge" alt="aadarshadhakalg" /> </p>
 
