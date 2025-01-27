@@ -7,7 +7,7 @@
         <mxCell id="kHgYxxEt7aaKrCcU35Kq-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="230" width="320" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="kHgYxxEt7aaKrCcU35Kq-1" value="HPC&lt;div&gt;OpenStack&lt;/div&gt;&lt;div&gt;Ceph&lt;/div&gt;&lt;div&gt;Proxmox Cluster&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-1" value="HPC&lt;div&gt;OpenStack&lt;/div&gt;&lt;div&gt;Ceph&lt;/div&gt;&lt;div&gt;Proxmox Cluster&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;200 Nodes Approx&lt;/div&gt;&lt;div&gt;20-25 Hardly in use&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="60" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kHgYxxEt7aaKrCcU35Kq-2" value="Node 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
