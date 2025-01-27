@@ -70,7 +70,7 @@
         <mxCell id="kHgYxxEt7aaKrCcU35Kq-18" value="Worker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kHgYxxEt7aaKrCcU35Kq-29">
           <mxGeometry y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kHgYxxEt7aaKrCcU35Kq-22" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Use&lt;/h1&gt;&lt;p&gt;Used by OpenStack&lt;/p&gt;&lt;p&gt;- neutron&lt;/p&gt;&lt;p&gt;- Openvswitch&lt;/p&gt;&lt;p&gt;- ovn&lt;/p&gt;&lt;p&gt;- nova&lt;/p&gt;&lt;p&gt;- cinder&lt;/p&gt;&lt;p&gt;- keystone&lt;/p&gt;&lt;p&gt;- horizon&lt;/p&gt;&lt;p&gt;- placement&lt;/p&gt;&lt;p&gt;VM not in use&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="kHgYxxEt7aaKrCcU35Kq-30">
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-22" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Use&lt;/h1&gt;&lt;p&gt;- Used by OpenStack&lt;/p&gt;&lt;p&gt;- neutron&lt;/p&gt;&lt;p&gt;- Openvswitch&lt;/p&gt;&lt;p&gt;- ovn&lt;/p&gt;&lt;p&gt;- nova&lt;/p&gt;&lt;p&gt;- cinder&lt;/p&gt;&lt;p&gt;- keystone&lt;/p&gt;&lt;p&gt;- horizon&lt;/p&gt;&lt;p&gt;- placement&lt;/p&gt;&lt;p&gt;VM not in use&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="kHgYxxEt7aaKrCcU35Kq-30">
           <mxGeometry x="390" width="230" height="320" as="geometry" />
         </mxCell>
         <mxCell id="kHgYxxEt7aaKrCcU35Kq-31" value="" style="group" vertex="1" connectable="0" parent="1">
