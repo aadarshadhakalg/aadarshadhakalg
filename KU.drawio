@@ -1,9 +1,87 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15" version="26.0.7">
   <diagram name="Page-1" id="2cJxX8rCElqf9o_g5jlh">
-    <mxGraphModel>
+    <mxGraphModel dx="984" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="230" width="320" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-1" value="HPC&lt;div&gt;OpenStack&lt;/div&gt;&lt;div&gt;Ceph&lt;/div&gt;&lt;div&gt;Proxmox Cluster&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="60" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-2" value="Node 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-3" value="Node 2" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="250" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-4" value="1 SSD Boss Drive&lt;div&gt;2 HDD 2TB each&lt;/div&gt;&lt;div&gt;8 core CPU&lt;/div&gt;&lt;div&gt;24 GB&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="330" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-5" value="1 SSD Boss Drive&lt;div&gt;2 HDD 2TB each&lt;/div&gt;&lt;div&gt;8 core&amp;nbsp;&lt;/div&gt;&lt;div&gt;24 GB&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="330" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-6" value="CEPH Configured&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;OSDs = HDDs&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Replication: 3/2&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="400" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-8" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Use&lt;/h1&gt;&lt;p&gt;3 VMs&lt;/p&gt;&lt;p&gt;1 Controller Controller ( Split Brain )&lt;/p&gt;&lt;p&gt;1 Ha Proxy&lt;/p&gt;&lt;p&gt;1 Windows Test&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="230" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-9" value="CEPH ADM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="585" width="320" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-10" value="22 OSDs&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Replication: 3/2&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="185" y="700" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Use&lt;/h1&gt;&lt;p&gt;Used by OpenStack&lt;/p&gt;&lt;p&gt;Used by Kubernetes&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="585" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-21" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="90" y="860" width="340" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="kHgYxxEt7aaKrCcU35Kq-21">
+          <mxGeometry width="340" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kHgYxxEt7aaKrCcU35Kq-21">
+          <mxGeometry x="30" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-13" value="Controller&lt;div&gt;12 Core&amp;nbsp;&lt;/div&gt;&lt;div&gt;48 GB&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kHgYxxEt7aaKrCcU35Kq-21">
+          <mxGeometry x="30" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-14" value="Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kHgYxxEt7aaKrCcU35Kq-21">
+          <mxGeometry x="180" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-15" value="Worker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kHgYxxEt7aaKrCcU35Kq-21">
+          <mxGeometry x="180" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-16" value="Worker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kHgYxxEt7aaKrCcU35Kq-21">
+          <mxGeometry x="180" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-17" value="Worker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kHgYxxEt7aaKrCcU35Kq-21">
+          <mxGeometry x="30" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-18" value="Worker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kHgYxxEt7aaKrCcU35Kq-21">
+          <mxGeometry x="30" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-22" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Use&lt;/h1&gt;&lt;p&gt;Used by OpenStack&lt;/p&gt;&lt;p&gt;- neutron&lt;/p&gt;&lt;p&gt;- Openvswitch&lt;/p&gt;&lt;p&gt;- ovn&lt;/p&gt;&lt;p&gt;- nova&lt;/p&gt;&lt;p&gt;- cinder&lt;/p&gt;&lt;p&gt;- keystone&lt;/p&gt;&lt;p&gt;- horizon&lt;/p&gt;&lt;p&gt;- placement&lt;/p&gt;&lt;p&gt;VM not in use&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="860" width="230" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-23" value="Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1300" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-24" value="Compute" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1410" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-25" value="Compute" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1510" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-26" value="Compute" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1520" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-27" value="Compute" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1410" width="160" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
