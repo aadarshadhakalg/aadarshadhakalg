@@ -46,26 +46,29 @@
         <mxCell id="kHgYxxEt7aaKrCcU35Kq-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="kHgYxxEt7aaKrCcU35Kq-21">
           <mxGeometry width="340" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="kHgYxxEt7aaKrCcU35Kq-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kHgYxxEt7aaKrCcU35Kq-21">
-          <mxGeometry x="30" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-29" value="" style="group" vertex="1" connectable="0" parent="kHgYxxEt7aaKrCcU35Kq-21">
+          <mxGeometry x="30" y="40" width="270" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="kHgYxxEt7aaKrCcU35Kq-13" value="Controller&lt;div&gt;12 Core&amp;nbsp;&lt;/div&gt;&lt;div&gt;48 GB&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kHgYxxEt7aaKrCcU35Kq-21">
-          <mxGeometry x="30" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kHgYxxEt7aaKrCcU35Kq-29">
+          <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kHgYxxEt7aaKrCcU35Kq-14" value="Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kHgYxxEt7aaKrCcU35Kq-21">
-          <mxGeometry x="180" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-13" value="Controller&lt;div&gt;12 Core&amp;nbsp;&lt;/div&gt;&lt;div&gt;48 GB&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kHgYxxEt7aaKrCcU35Kq-29">
+          <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kHgYxxEt7aaKrCcU35Kq-15" value="Worker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kHgYxxEt7aaKrCcU35Kq-21">
-          <mxGeometry x="180" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-14" value="Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kHgYxxEt7aaKrCcU35Kq-29">
+          <mxGeometry x="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kHgYxxEt7aaKrCcU35Kq-16" value="Worker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kHgYxxEt7aaKrCcU35Kq-21">
-          <mxGeometry x="180" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-15" value="Worker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kHgYxxEt7aaKrCcU35Kq-29">
+          <mxGeometry x="150" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kHgYxxEt7aaKrCcU35Kq-17" value="Worker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kHgYxxEt7aaKrCcU35Kq-21">
-          <mxGeometry x="30" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-16" value="Worker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kHgYxxEt7aaKrCcU35Kq-29">
+          <mxGeometry x="150" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kHgYxxEt7aaKrCcU35Kq-18" value="Worker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kHgYxxEt7aaKrCcU35Kq-21">
-          <mxGeometry x="30" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-17" value="Worker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kHgYxxEt7aaKrCcU35Kq-29">
+          <mxGeometry y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kHgYxxEt7aaKrCcU35Kq-18" value="Worker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kHgYxxEt7aaKrCcU35Kq-29">
+          <mxGeometry y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kHgYxxEt7aaKrCcU35Kq-22" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Use&lt;/h1&gt;&lt;p&gt;Used by OpenStack&lt;/p&gt;&lt;p&gt;- neutron&lt;/p&gt;&lt;p&gt;- Openvswitch&lt;/p&gt;&lt;p&gt;- ovn&lt;/p&gt;&lt;p&gt;- nova&lt;/p&gt;&lt;p&gt;- cinder&lt;/p&gt;&lt;p&gt;- keystone&lt;/p&gt;&lt;p&gt;- horizon&lt;/p&gt;&lt;p&gt;- placement&lt;/p&gt;&lt;p&gt;VM not in use&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="860" width="230" height="320" as="geometry" />
