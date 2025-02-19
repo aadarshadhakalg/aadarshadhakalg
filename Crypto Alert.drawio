@@ -65,6 +65,9 @@
         <mxCell id="wVhuUVmPffNn5wUYsDlq-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.twilio.com/assets/icons/twilio-icon-512_maskable.png;" vertex="1" parent="1">
           <mxGeometry x="600" y="144" width="52" height="52" as="geometry" />
         </mxCell>
+        <mxCell id="wVhuUVmPffNn5wUYsDlq-21" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logosandtypes.com/wp-content/uploads/2020/06/coindesk.svg;" vertex="1" parent="1">
+          <mxGeometry x="100" y="172.5" width="35" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
